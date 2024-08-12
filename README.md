@@ -53,9 +53,9 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
-## Training Data Set  employee Table
+## Training Data Set employee Table
 ![web data1](https://github.com/user-attachments/assets/b36da19e-1330-47b9-a602-2020fc809fb9)
-## Training Data Set  Weather Table
+## Training Data Set Weather Table
 ![web data2](https://github.com/user-attachments/assets/3f92325f-4fe3-4296-a65a-2b8b9ebf2088)
 
 ### PREPROCESSING
